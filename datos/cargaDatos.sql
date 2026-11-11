@@ -10,7 +10,7 @@ CREATE TABLE Personas (
 );
 
 INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES 
-	(1,"Iñigo","Serrano","Llona","Mazarredo 69","Bilbao");
+	(1,"IÃ±igo","Serrano","Llona","Mazarredo 69","Bilbao");
 	
 INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES 
 	(2,"Luisa","Martinez","Palazon","Gran Via, 1","Bilbao");
